@@ -20,11 +20,11 @@ I build fancy webpages. I am a fan of:
 
 ### Any guesses what this code is for?
 ```
-  private static int mystery(int n)
-	{
-		if(n==0 || n==1)
-			return 1;
-		else
-			return mystery(n-1) + mystery(n-2);
-	}
+private static int mystery(int n)
+{
+ if(n==0 || n==1)
+  return 1;
+ else
+  return mystery(n-1) + mystery(n-2);
+}
 ```
