@@ -23,3 +23,4 @@ private static int mystery(int n)
     return mystery(n-1) + mystery(n-2);
 }
 ```
+### Fibinacia Sequence I believe (idk how to spell it tho)
