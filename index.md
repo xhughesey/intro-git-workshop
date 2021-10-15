@@ -13,7 +13,7 @@ I build fancy webpages. I am a fan of:
 * game
 * hang out with friends
 
-### Any guesses what this code is for? Its the fibinacia sequence
+### Any guesses what this code is for?
 ```
 private static int mystery(int n)
 {
@@ -23,4 +23,3 @@ private static int mystery(int n)
     return mystery(n-1) + mystery(n-2);
 }
 ```
-### Fibinacia Sequence I believe (idk how to spell it tho)
