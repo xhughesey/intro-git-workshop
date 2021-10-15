@@ -1,4 +1,4 @@
-## Hello world, by name is Xander!
+## Hello world, my name is Xander!
 
 I build fancy webpages. I am a fan of:
 * dark coding environments
@@ -14,6 +14,7 @@ I build fancy webpages. I am a fan of:
 * hang out with friends
 
 ### Any guesses what this code is for?
+### Fibinacia Sequence I believe (idk how to spell it tho)
 ```
 private static int mystery(int n)
 {
@@ -23,4 +24,3 @@ private static int mystery(int n)
     return mystery(n-1) + mystery(n-2);
 }
 ```
-### Fibinacia Sequence I believe (idk how to spell it tho)
